@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# vondr.as
-=======
+
 # vondr.as
 
 > personal site
@@ -23,4 +21,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
->>>>>>> init nuxt
